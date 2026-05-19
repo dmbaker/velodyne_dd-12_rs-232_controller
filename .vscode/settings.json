@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "BAUDRATE",
+        "BYTESIZE",
+        "columnspan",
+        "padx",
+        "pady",
+        "pyserial",
+        "SEVENBITS",
+        "STOPBITS",
+        "textvariable",
+        "unmute"
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
+}
